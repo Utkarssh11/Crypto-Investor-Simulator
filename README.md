@@ -1,6 +1,5 @@
 # Crypto-Investor-Simulator
 
-# Crypto Investor Simulator
 
 Welcome to the Crypto Investor Simulator! This project is a Python-based simulator that allows users to experience the world of cryptocurrency investing in a risk-free environment. It provides an opportunity to learn and practice investment strategies without using real money.
 
